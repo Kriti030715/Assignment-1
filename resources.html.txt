@@ -1,0 +1,50 @@
+resources.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Inspiration & Resources</title>
+  <link rel="stylesheet" href="style-resources.css">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Roboto&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="header-violet">
+    <h1>Inspiration & Resources</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="steps.html">Step by Step Guide</a>
+          </nav>
+  </header>
+
+  <main class="main-content">
+    <p>Below are some of the journalists who inspire me the most, along with useful links to learn more about them:</p>
+
+    <table class="violet-table">
+      <tr>
+        <th>Name</th>
+        <th>Specialty</th>
+        <th>Link</th>
+      </tr>
+      <tr>
+        <td>Christiane Amanpour</td>
+        <td>International Reporting</td>
+        <td><a href="https://en.wikipedia.org/wiki/Christiane_Amanpour" target="_blank">Wikipedia Page</a></td>
+      </tr>
+      <tr>
+        <td>M. G. G. Pillai</td>
+        <td>Political Journalism (Malaysia)</td>
+        <td><a href="https://en.wikipedia.org/wiki/M._G._G._Pillai" target="_blank">Wikipedia Page</a></td>
+      </tr>
+      <tr>
+        <td>Maria Ressa</td>
+        <td>Investigative Journalism</td>
+        <td><a href="https://en.wikipedia.org/wiki/Maria_Ressa" target="_blank">Wikipedia Page</a></td>
+      </tr>
+    </table>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Future Journalist</p>
+  </footer>
+</body>
+</html>

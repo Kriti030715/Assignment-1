@@ -1,0 +1,43 @@
+body {
+  background-color: #2e0854; /* dark purple */
+  color: #f6e0d1; /* peach */
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  padding: 40px 20px;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 3rem;
+  color: #cdb4db; /* lavender */
+  margin-bottom: 25px;
+}
+
+p {
+  font-size: 1.3rem;
+  color: #f6d6bd; /* peach variant */
+  max-width: 600px;
+  margin: 0 auto 30px auto;
+  line-height: 1.6;
+}
+
+img {
+  border: 5px solid #cdb4db;
+  border-radius: 12px;
+  margin-bottom: 30px;
+}
+
+nav a {
+  color: #f6d6bd;
+  font-weight: 600;
+  text-decoration: none;
+  margin: 0 18px;
+  font-size: 1.1rem;
+  transition: color 0.3s ease;
+}
+
+nav a:hover {
+  color: #cdb4db;
+}
